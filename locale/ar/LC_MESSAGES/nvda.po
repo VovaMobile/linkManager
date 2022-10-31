@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: link_manager\n"
+"POT-Creation-Date: 2022-10-30 16:06+0300\n"
+"PO-Revision-Date: 2022-10-30 16:29+0300\n"
+"Language-Team: abdallah hayder <abd23200@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:48
+msgid "moves to next URL"
+msgstr "الإنتقال إلى الرابط التالي"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:68
+msgid "moves to previous URL"
+msgstr "الإنتقال إلى الرابط السابق"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:87
+msgid "moves to next category"
+msgstr "الإنتقال إلى الفئة التالية"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:100
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:121
+msgid "links"
+msgstr "روابط"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:102
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:123
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:31
+msgid "link"
+msgstr "رابط"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:103
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:124
+msgid "{category}: Contains {length} {l}"
+msgstr "{category}: تتضمن  {length} {l}"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:107
+msgid "moves to previous category"
+msgstr "الإنتقال إلى الفئة السابقة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:128
+msgid "add a new URL"
+msgstr "إضافة رابط جديد"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:139
+msgid "open any link from clipboard"
+msgstr "لِفتح أي رابط مِن الحافظة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:150
+msgid "search for a URL in the category"
+msgstr "البحث عن رابط بالفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:161
+msgid "Toggle displaying of URL after name."
+msgstr "تبديل عرض الرابط بعد الاسم."
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:167
+msgid "read URL after name turned off"
+msgstr "تم تعطيل قراءة الرابط بعد الإسم"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:169
+msgid "read URL after name turned on"
+msgstr "تم تمكين قراءة الرابط بعد الإسم"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:173
+msgid "open the current selected URL"
+msgstr "فتح الرابط المحدد"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:179
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:17
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:35
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:46
+msgid "opening {url}"
+msgstr "يتم فتح {url}"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:182
+msgid "remove a URL from category"
+msgstr "إزالة الرابط من الفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:188
+msgid "Are you shore you want to delete {url} from the category?"
+msgstr "هل أنت متأكد بأنك تريد إزالة {url} مِن الفئة؟"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:192
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:222
+msgid "delete"
+msgstr "حذف"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:212
+msgid "Delete a category from the category list"
+msgstr "حذف فئة من قائمة الفئات"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:218
+msgid "are you shore that you want to delete {category} from the category list?"
+msgstr "هل أنت متأكد بأنك تريد حذف {category} مِن قائمة الفئات؟"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:243
+msgid "moves to first link in the category"
+msgstr "الإنتقال إلى أول رابط بالفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\__init__.py:255
+msgid "moves to last link in the category"
+msgstr "الإنتقال إلى آخِر رابط بالفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:15
+msgid "add new link"
+msgstr "إضافة رابط جديد"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:18
+msgid "the link name"
+msgstr "اسم الرابط"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:20
+msgid "the link"
+msgstr "الرابط"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:22
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:29
+msgid "category"
+msgstr "الفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:24
+msgid "create new category"
+msgstr "انشاء فئة جديدة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:25
+msgid "add"
+msgstr "إضافة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:26
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:36
+msgid "cancel"
+msgstr "إلغاء"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:46
+msgid "all"
+msgstr "الكل"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:51
+msgid "category name"
+msgstr "اسم الفئة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:51
+msgid "enter the new category name"
+msgstr "قم بإدخال إسم الفئة الجديدة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:59
+msgid "category exists"
+msgstr "الفئة موجودة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:59
+msgid "this category already exists"
+msgstr "هذه الفئة موجودة بالفعل"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:65
+msgid "category added successfully"
+msgstr "تم إضافة الفئة بنجاح"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:65
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:89
+msgid "success"
+msgstr "نجاح"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:71
+msgid "you must add at least one category to add new link"
+msgstr "يجب عليك إضافة فئة واحدة على الأقل لإضافة رابط جديد"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:71
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:17
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:21
+msgid "error"
+msgstr "خطأ"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\add_dialog.py:89
+msgid "link added successfully"
+msgstr "تم إضافة الرابط بنجاح"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:15
+msgid "It appears that the clipboard is empty or there is no link in it."
+msgstr "يبدو أن الحافظة فارغة أو لا يوجد رابطًا بداخلها."
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:19
+msgid "choos a link to open"
+msgstr "اختر رابط للفتح"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:21
+msgid "{count} links found"
+msgstr "تم العثور على {count} رابطًا"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:23
+msgid "open"
+msgstr "فتح"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:26
+msgid "copy to clipboard"
+msgstr "نسخ إلى الحافظة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\from_clipboard.py:28
+msgid "close"
+msgstr "إغلاق"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:17
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:21
+msgid "there is no category or data file to search"
+msgstr "لا توجد فئة أو ملف بيانات للبحث"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:22
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:32
+msgid "search"
+msgstr "بحث"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:27
+msgid "search word"
+msgstr "كلمة البحث"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:31
+msgid "name"
+msgstr "الإسم"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:31
+msgid "search by"
+msgstr "البحث بواسطة"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:49
+msgid "write search word"
+msgstr "قم بكتابة كلمة البحث"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:57
+msgid "no results found"
+msgstr "لم يتم العثور على نتائج"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:57
+msgid "there are no results"
+msgstr "ليس هنالك نتائج"
+
+#: C:\Users\Administrator\AppData\Roaming\nvda\addons\link_manager\globalPlugins\link_manager\search_dialog.py:60
+msgid "results list: {count} results found"
+msgstr "قائمة النتائج: تم العثور على {count} نتيجة"
